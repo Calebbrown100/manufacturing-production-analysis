@@ -24,3 +24,6 @@ Packaging had the lowest operational productivity at 95.08%
 
 Recommendation
 Further investigate Production Line 3 to determine factors contributing to its elevated rework rate and lower productivity. Inspection should also be monitored for rework, while Packaging should be reviewed for opportunities to improve productivity and overall target attainment.
+
+##Dashboard Preview
+![Manufacturing Production Performance Dashboard](manufacturing-dashboard.png)
